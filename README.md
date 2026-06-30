@@ -1,201 +1,189 @@
-<!-- ========================= -->
-
-<!--          BANNER          -->
-
-<!-- ========================= -->
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=PHU%20GANH%20VU&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-</p>
-
-<h1 align="center">Hi 👋 I'm Phuong Anh</h1>
+<h1 align="center">
+  Hi 👋, I'm Phuong Anh
+</h1>
 
 <h3 align="center">
-Backend Developer • Java • Spring Boot • C# • Python
+  💜 Backend Developer | AI Enthusiast | IT Student 💜
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+Developer;Spring+Boot;ASP.NET+Core;Python+Learner;Always+Learning+New+Things..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot+Developer;AI+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table>
+<tr>
 
-## 🚀 About Me
+<td width="55%">
 
-🎓 Information Technology Student
+## 🌸 About Me
 
-💻 Passionate about Backend Development
+🎓 IT Student
 
-🌱 Currently learning
+☕ Java Developer
 
-* Java
-* Spring Boot
-* Python
-* C#
-* C++
-* SQL
+🍃 Spring Boot Enthusiast
 
-🤖 Interested in
+🐍 Learning Python & AI
 
-* Artificial Intelligence
-* REST API
-* Microservices
-* Cloud Computing
+💻 C# and ASP.NET Core
 
-⚡ Goal
+🗄️ Database Design & SQL
 
-Become a Professional Backend Engineer.
+🌱 Always learning new technologies
+
+🐱 Cat Lover
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Featured Projects
 
-<p align="center">
+### 🌍 Tour Booking System
+AI-powered tour booking platform with chatbot support.
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,python,mysql,supabase,docker,git,github,vscode,idea,visualstudio,linux"/>
+### 🤖 AI Chatbot
+Intelligent chatbot using NLP and AI technologies.
 
+### 📚 Library Management System
+Java OOP application for managing books and readers.
+
+### 🛒 E-commerce Backend API
+Spring Boot RESTful API with authentication.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,js" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,idea" />
 </p>
 
 ---
 
-# 📚 Currently Learning
-
-```text
-██████████████████████████████
-
-Python
-
-█████████████████████░░░░░░░░
-
-Java
-
-█████████████████░░░░░░░░░░░░
-
-Spring Boot
-
-██████████████████░░░░░░░░░░░
-
-C#
-
-█████████████████░░░░░░░░░░░░
-
-C++
-
-██████████████░░░░░░░░░░░░░░░
-
-Database
-
-█████████████████░░░░░░░░░░░░
-```
-
----
-
-# 🌟 Featured Projects
-
-🚀 Tour Booking System
-
-🤖 AI Chatbot
-
-📚 Library Management System
-
-🌐 REST API Projects
-
-💻 Java Console Applications
-
----
-
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phuganhvu&show_icons=true&theme=tokyonight"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuganhvu&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=phuganhvu&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phuganhvu&theme=tokyo-night"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"
+/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=phuganhvu&theme=tokyonight&row=1&column=7"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/phuganhvu/phuganhvu/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
 
 </p>
 
 ---
 
-# 💻 Favorite Quote
-
-```java
-while(alive){
-
-    eat();
-
-    code();
-
-    learn();
-
-    repeat();
-
-}
-```
-
----
-
-# 🌐 Connect With Me
-
-📧 Email : [your-email@gmail.com](mailto:your-email@gmail.com)
-
-💼 LinkedIn : https://linkedin.com/in/your-link
-
-🌍 Portfolio : Coming Soon
-
----
+## 🏆 GitHub Trophy
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=phuganhvu&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
 
 </p>
 
 ---
 
+## 🌐 Connect With Me
+
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+LinkedIn
+</a>
 
+•
+
+<a href="mailto:YOUR_EMAIL">
+Email
+</a>
+
+•
+
+<a href="https://github.com/YOUR_USERNAME">
+GitHub
+</a>
+
+</p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=C084FC&style=for-the-badge" />
+
+</p>
+
+---
+
+<h3 align="center">
+💜 Thanks for visiting my profile 💜
+</h3>
+
+<p align="center">
+⭐ Have a great day ⭐
 </p>
