@@ -8,7 +8,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=PHU%20GANH%20VU&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Phu Ganh Vu</h1>
+<h1 align="center">Hi 👋 I'm Phuong Anh</h1>
 
 <h3 align="center">
 Backend Developer • Java • Spring Boot • C# • Python
@@ -54,7 +54,7 @@ Become a Professional Backend Engineer.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,cpp,python,mysql,postgres,docker,git,github,vscode,idea,visualstudio,linux"/>
+<img src="https://skillicons.dev/icons?i=java,spring,cs,python,mysql,supabase,docker,git,github,vscode,idea,visualstudio,linux"/>
 
 </p>
 
