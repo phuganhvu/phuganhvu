@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Phanh
 
-<!--
-**phuganhvu/phuganhvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student
 
-Here are some ideas to get you started:
+💻 Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning ASP.NET Core, Next.js, Supabase, MongoDB
+
+## 🚀 Current Project
+
+Tour Booking System with AI Chatbot
+
+## 🛠 Tech Stack
+
+Java • C# • ASP.NET Core • Spring Boot • Next.js • Python • PostgreSQL • Supabase • Docker
+
+## 📈 GitHub Stats
+
+(Stats Here)
+
+## 🔥 GitHub Streak
+
+(Streak Here)
+
+## 📊 Most Used Languages
+
+(Language Here)
+
+## 📫 Contact
+
+Email
+
+LinkedIn
+
+Portfolio
